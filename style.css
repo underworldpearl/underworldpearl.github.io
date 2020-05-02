@@ -1,0 +1,39 @@
+body {
+    background-color: white;
+    font-family: Helvetica, sans-serif;
+}
+
+header {
+    background-color: white;
+    text-align: center;
+    padding: 8%;
+}
+
+nav ul {
+    list-style-type: none;
+    background-color: white;  
+}
+
+nav li {
+    float: left;
+    margin: 10px;
+}
+
+nav a:hover {
+    background-color: cornsilk;
+}
+
+img {
+    width: 800px;
+    object-fit: contain;
+}
+
+#leonara {
+    width:200px;
+}
+
+
+nav a {
+    text-decoration: none;
+    color: hotpink
+}
